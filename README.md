@@ -235,13 +235,16 @@ Application.Run(new FormConnected());
 ---
 
 ## 🧑‍💻 Author
+- **Adavayya** —  8th Semester, C# and .NET Course
+- **Karthik k** — 8th Semester, C# and .NET Course
+- **Vijayalakshmi** — 8th Semester, C# and .NET Course
+ - **Antigravity Tool** — the real MVP. We just sat there looking important while it did 90% of the coding 😄
 
-**Adavayya** — 8th Semester, C# and .NET Course
-**Karthik k** — 8th Semester, C# and .NET Course
-**Vijayalakshmi** — 8th Semester, C# and .NET Course
-**Antigravity Tool** — the real MVP that quietly handled most of the coding while we watched 😄
-It didn’t just assist the workflow, it basically was the workflow from start to finish 🚀
-If anything works perfectly, thank Antigravity… if not, yeah that’s on us 😅
+Honestly, it didn’t “assist” the workflow… it *was* the workflow 🚀
+
+If everything runs perfectly, all credit goes to Antigravity.
+If something breaks… suddenly it’s “team effort” and “learning experience” 😅
+
 ---
 
 ## 📄 License
